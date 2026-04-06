@@ -2,7 +2,7 @@
 
 A premium, high-performance Windows Forms calculator built with **.NET 8**. Featuring a sleek **Light Neumorphic** user interface, advanced scientific functions, and a persistent history log.
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/)
 
 ---
 
